@@ -1,0 +1,22 @@
+<library>
+    <book>
+        <title>Lập trình cơ bản</title>
+        <author>Nguyễn Trung Tín</author>
+        <year>2025</year>
+        <genre>Code</genre>
+    </book>
+
+    <book>
+        <title>Học máy nhập môn</title>
+        <author>Trần Văn B</author>
+        <year>2023</year>
+        <genre>Khoa học máy tính</genre>
+    </book>
+
+    <book>
+        <title>Cơ sở dữ liệu</title>
+        <author>Lê Thị C</author>
+        <year>2024</year>
+        <genre>Công nghệ thông tin</genre>
+    </book>
+</library>
